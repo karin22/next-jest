@@ -28,6 +28,17 @@ yarn create next-app --example with-jest with-jest-app
 pnpm create next-app --example with-jest with-jest-app
 ```
 
+## System Requirements:
+
+Node.js 18.17 or later.
+
+## Running Dev
+ 
+```bash
+npm i 
+npm run dev
+```
+
 ## Running Tests
 
 ```bash
