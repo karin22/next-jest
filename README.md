@@ -6,11 +6,11 @@ This includes Next.js' built-in support for Global CSS, CSS Modules and TypeScri
 
 > **Note:** Since tests can be co-located alongside other files inside the App Router, we have placed those tests in `app/` to demonstrate this behavior (which is different than `pages/`). You can still place all tests in `__tests__` if you prefer.
 
-## Deploy your own
+<!-- ## Deploy your own
 
-[![Deploy with Vercel](https://vercel.com/button)](https://vercel.com/new/clone?repository-url=https://github.com/vercel/next.js/tree/canary/examples/with-jest&project-name=with-jest&repository-name=with-jest)
+[![Deploy with Vercel](https://vercel.com/button)](https://vercel.com/new/clone?repository-url=https://github.com/vercel/next.js/tree/canary/examples/with-jest&project-name=with-jest&repository-name=with-jest) -->
 
-## How to Use
+<!-- ## How to Use
 
 Quickly get started using [Create Next App](https://github.com/vercel/next.js/tree/canary/packages/create-next-app#readme)!
 
@@ -26,7 +26,8 @@ yarn create next-app --example with-jest with-jest-app
 
 ```bash
 pnpm create next-app --example with-jest with-jest-app
-```
+``` -->
+Quickly get started using [Create Next App](https://github.com/vercel/next.js/tree/canary/packages/create-next-app#readme)!
 
 ## System Requirements:
 
